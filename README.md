@@ -8,3 +8,4 @@ class name ButtonListener control event like which button is click and shift num
 DateDisplay class display minute , second and control time. 
 resetGame() method  restart the game.
 
+![puzzle](https://github.com/user-attachments/assets/536ac655-d7c9-4b6f-b255-c21a757699e1)
